@@ -1,0 +1,8 @@
+TODO:
+1. Create ReactJS application with redux
+  - vanilla JS: npx create-react-app shopping-list --template redux
+  - typescript: npx create-react-app shopping-list --template redux-typescript
+2. Add libs:
+  - https://reactrouter.com/en/main
+  - https://mui.com/
+  - https://react-hook-form.com/
